@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Supun Prabath
 
-💻 Full-Stack Developer | Android, Web & Desktop App Specialist | IoT Enthusiast
+💻 BSc in Information Technology | Full-Stack Developer | Android, Web & Desktop App Specialist | IoT Enthusiast
 
 ---
 
