@@ -46,9 +46,9 @@
 
 ## 📊 GitHub Stats
 
-![Supun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=supun-prabath&show_icons=true&theme=github_dark)
+![Supun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Spshooterxx&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supun-prabath&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spshooterxx&layout=compact&theme=github_dark)
 
 ---
 
